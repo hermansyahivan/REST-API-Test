@@ -10,8 +10,8 @@ Project ini mengimplementasikan **REST API lengkap**, **JWT Authentication**, **
 
 | Keterangan | Data                               |
 | ---------- | ---------------------------------- |
-| **Nama**   | Iqbal Tegar Pratama                |
-| **NIM**    | A11.2023.14969                     |
+| **Nama**   |     Ivan Hermansyah                |
+| **NIM**    | A11.2023.14952                     |
 | **Kelas**  | Pemrograman Sisi Server (A11.4602) |
 
 ---
@@ -284,8 +284,8 @@ Project diuji menggunakan:
 
 # 👨‍💻 Author
 
-**Iqbal Tegar Pratama**
-**NIM:** A11.2023.14969
+**Ivan Hermansyah**
+**NIM:** A11.2023.14952
 **Kelas:** Pemrograman Sisi Server (A11.4602)
 
 ---
